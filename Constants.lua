@@ -502,6 +502,11 @@ local node_ids = {
 		[NL["Large Jelly Deposit"]]				= 564,
 		-- Shadowlands
 		[NL["Ground Wart"]]						= 565,
+		-- Un'goro power crystals
+		[NL["Blue Power Crystal"]]				= 596,
+		[NL["Green Power Crystal"]]				= 597,
+		[NL["Red Power Crystal"]]				= 598,
+		[NL["Yellow Power Crystal"]]			= 599,
 	},
 	["Archaeology"] = {
 		-- cata archeolgy objects
@@ -1141,6 +1146,10 @@ local node_textures = {
 		[563] = icon_path.."Treasure\\honey.tga",
 		[564] = icon_path.."Treasure\\honey.tga",
 		[565] = icon_path.."Treasure\\hide.tga",
+		[596] = icon_path.."Treasure\\honey.tga",
+		[597] = icon_path.."Treasure\\honey.tga",
+		[598] = icon_path.."Treasure\\honey.tga",
+		[599] = icon_path.."Treasure\\honey.tga",
 	},
 	["Archaeology"] = {
 		[601] = icon_path.."Archaeology\\shovel.tga",
